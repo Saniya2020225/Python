@@ -1,0 +1,16 @@
+NAME = "JEthaLAL"
+print(NAME)
+print(NAME.upper())
+print(NAME.lower())
+print(NAME.swapcase())
+print(NAME.title())
+FULL_NAME = "JEThalal Champaklal gada"
+print(FULL_NAME.title())
+print(NAME.strip())
+print(NAME.lstrip())
+print(NAME.rstrip())
+print(NAME.find("a"))
+print(NAME.replace("J", "p"))
+print(NAME.find("A"))
+print("LAL" in NAME)
+print("babita" in NAME)
